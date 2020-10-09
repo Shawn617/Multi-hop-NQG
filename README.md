@@ -1,5 +1,5 @@
 # Multi-hop NQG
-This repository contains code and models for the paper: Asking Complex Questions with Multi-hop Answer-focused Reasoning.
+This repository contains code and models for the paper: [Asking Complex Questions with Multi-hop Answer-focused Reasoning](https://arxiv.org/pdf/2009.07402.pdf)
 ![Model Framework](whole.png)
 
 #### Data Preprocessing
